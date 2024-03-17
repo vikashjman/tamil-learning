@@ -1,0 +1,54 @@
+Movies:
+  - Movie Name: Batsha
+    Review: "-"
+    Rating: "-"
+    IMDb Rating: "8.3/10"
+    Watched: ❎
+
+  - Movie Name: Soorarai Pottru
+    Review: "Super"
+    Rating: "4.1/5"
+    IMDb Rating: 8.5
+    Watched: ✅
+
+  - Movie Name: Petta
+    Review: "Action-packed and entertaining"
+    Rating: "4.5/5"
+    IMDb Rating: 7.2
+    Watched: ❎
+
+  - Movie Name: Thuppakki
+    Review: "Gripping thriller with Vijay's charm"
+    Rating: "4.2/5"
+    IMDb Rating: 7.9
+    Watched: ❎
+
+  - Movie Name: Kaithi
+    Review: "Intense and well-executed"
+    Rating: "4.3/5"
+    IMDb Rating: 8.5
+    Watched: ❎
+
+  - Movie Name: Oththa Seruppu Size 7
+    Review: "Unique and engaging one-man show"
+    Rating: "4.7/5"
+    IMDb Rating: 8.0
+    Watched: ❎
+
+  - Movie Name: Leo
+    Review: "Information missing"
+    Rating: "-"
+    IMDb Rating: "-"
+    Watched: ❎
+
+  - Movie Name: Vikram
+    Review: "Information missing"
+    Rating: "-"
+    IMDb Rating: "-"
+    Watched: ❎
+    
+  - Movie Name: Premalu [Malayalam]
+    Review: "Information missing"
+    Rating: "-"
+    IMDb Rating: "-"
+    Watched: ❎
